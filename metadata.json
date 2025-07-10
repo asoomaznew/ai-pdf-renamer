@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered PDF Renamer",
+  "description": "A web application to bulk rename PDF files intelligently using custom regular expressions or Google's Gemini AI for content analysis. Users can upload multiple PDFs, preview the new names, and download them in a ZIP archive.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
